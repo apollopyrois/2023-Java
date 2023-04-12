@@ -14,8 +14,8 @@ public class exam extends JFrame implements ActionListener {
   	  
     public exam() {
     	
-    	super("View Storage Object");
-    	setSize(400,400);
+    	super("View Storage Objects");
+    	setSize(200,250);
     	setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     	
     	
